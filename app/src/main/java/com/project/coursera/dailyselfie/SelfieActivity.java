@@ -51,7 +51,7 @@ public class SelfieActivity extends AppCompatActivity {
     private AlarmManager mAlarmManager;
     Intent mNotificationReceiverIntent;
     PendingIntent mNotificationReceiverPendingIntent;
-    private static final long INITIAL_ALARM_DELAY = 2 * 10 * 1000L;
+    private static final long INITIAL_ALARM_DELAY = 2 * 60 * 1000L;
 
     private final int CAMERA_CAPTURE = 1;
     private static final int REQUEST_FOR_STORAGE = 1111;
