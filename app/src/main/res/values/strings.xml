@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="not_save">Not Save</string>
+    <string name="action_camera">Take Selfie</string>
+</resources>
